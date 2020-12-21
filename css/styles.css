@@ -9,18 +9,18 @@
 .container{
   width: 100%;
   min-height: 50vh;
-  padding: 0 5rem;
+  padding: 0 3rem;
 
   display: grid;
-  grid-template-columns: repeat(auto-fit, 40rem);
-  column-gap: 10rem;
-  row-gap: 10rem;
+  grid-template-columns: repeat(auto-fit, 35rem);
+  column-gap: 6rem;
+  row-gap: 6rem;
   justify-content: center;
 }
 .card{
   position: relative;
-  width: 40rem;
-  height: 40rem;
+  width: 35rem;
+  height: 35rem;
 }
 .card__gradient{
   position: absolute;
@@ -31,7 +31,7 @@
 .card__text{
   position: absolute;
   background-color: white;
-  top: 16rem;
+  top: 13.5rem;
   left: -5%;
   height: 8rem;
   width: 110%;
