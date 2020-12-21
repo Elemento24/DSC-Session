@@ -1,0 +1,40 @@
+@keyframes turnBlack{
+  0%{
+    background-color: transparent;
+  }
+  100%{
+    background-color: rgba(0,0,0,.9);
+  }
+}
+@keyframes frameHor{
+  0%{
+      width: 0%;
+  }
+  100%{
+      width: 100%;
+  }
+}
+@keyframes frameVer{
+  0%{
+      height: 0%;
+  }
+  100%{
+      height: 100%;
+  }
+}
+@keyframes changeColor{
+  0%{
+    color: transparent;
+  }
+  100%{
+    color: rgba(0,0,0,.9);
+  }
+}
+@keyframes strikeRight{
+  0%{
+    width: 0%;
+  }
+  100%{
+    width: 120%;
+  }
+}

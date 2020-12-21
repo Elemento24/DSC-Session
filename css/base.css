@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Parisienne&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /* 62.5 % 16px = 10px */
+  font-size: 62.5%; 
+  scroll-behavior: smooth;
+  background: #1D2B64;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F8CDDA, #1D2B64);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F8CDDA, #1D2B64); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Montserrat', sans-serif;
+}
+
+ /* Hide scrollbar for Chrome, Safari and Opera */
+ html::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+html {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+body{
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 1400px) {
+  html{
+    /* 1rem = 9px, 9/16 = 56.25% */
+    font-size: 56.25%; 
+  }
+}
+@media only screen and (max-width: 900px) {
+  html{
+    /* 1rem = 8px, 8/16 = 50% */
+    font-size: 50%; 
+  }
+}
+@media only screen and (max-width: 600px) {
+  html{
+    /* 1rem = 6px, 6/16 = 37.5% */
+    font-size: 37.5%; 
+  }
+}
+@media only screen and (min-width: 1800px) {
+  html{
+    /* 1rem = 12px, 12/16 = 75%  */
+    font-size: 75%; 
+  }
+}
