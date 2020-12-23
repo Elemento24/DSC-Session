@@ -2,7 +2,7 @@
 Welcome Guys & Gals. In the DSC Session, we will be providing you with a hands-on experience, on how to make a simple webpage from scratch. The webpage would be consisting of 
 - HTML (Hyper Text Mark-up Language) 
 - CSS (Cascading Style Sheet) 
-- JS(JavaScript.  
+- JS(JavaScript)  
 
 ## Live Demo
 [Github Pages](https://elemento24.github.io/DSC-Session/)
