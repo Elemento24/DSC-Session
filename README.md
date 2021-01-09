@@ -30,7 +30,6 @@ Welcome Guys & Gals. In the DSC Session, we will be providing you with a hands-o
 - [UI Gradients](https://uigradients.com/#Jaipur) - For picking up different gradient colors
 - [Image Splitter](https://www.imgonline.com.ua/eng/cut-photo-into-pieces.php) - For splitting up a single image into pieces
 <br>
-<br>
 
 # Task 🎯
 - <b>Your mission, should you choose to Accept it</b>, is to make a similar webpage, for the hobby, that intrigues the most.
@@ -38,3 +37,8 @@ Welcome Guys & Gals. In the DSC Session, we will be providing you with a hands-o
 - Excite us, with your own Webpage, based on your personal Hobby.
 - Go crazy with <b>Themes</b>, such as Online Games, Art, Fashion, Photography and what not, just something apart from Studies definitely 🥳
 - So we, at the <b>DSC</b> are waiting patiently, for you to come up with your own unique idea. And if we like your version, then we will feature you on all the Social Handles of DSC.
+
+## Submission Guidelines
+- In the repo you will find a folder, named as <b>Ideas</b>. In that folder, you need to make a JSON file with it's name as your Github Username.
+- You will find a sample JSON file, in that folder. Adhere to that format.
+- Make a PR, including that JSON file, and <b>MAKE SURE</b> to add the link of your Live Demo, in the <b>Description</b> of your PR.
