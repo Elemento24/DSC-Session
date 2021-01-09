@@ -5,7 +5,7 @@ Welcome Guys & Gals. In the DSC Session, we will be providing you with a hands-o
 - JS (JavaScript)  
 
 ## Live Demo
-[Github Pages](https://elemento24.github.io/DSC-Session/)
+[Github Pages](https://elevate-lab.github.io/DSC-Session/)
 
 
 ## Files & Folders Overview 👓
