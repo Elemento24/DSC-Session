@@ -2,6 +2,11 @@ const nav = document.querySelector('.nav');
 const move = document.querySelector('.move-up');
 const audio = document.querySelector('#myAudio');
 
+document.addEventListener('click', () => {
+  // Start the Song
+  audio.play();
+});
+
 document.addEventListener('scroll', () => {
   let scroll_position = window.scrollY;
   if (scroll_position > 250) {
